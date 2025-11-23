@@ -70,9 +70,10 @@ This repository contains a **UiPath automation workflow** that demonstrates how 
 
 
 ## OUTPUT
-<img width="3840" height="2160" alt="Screenshot 2025-10-06 210543" src="https://github.com/user-attachments/assets/770e451e-879f-4ff4-8003-a62b16d53953" />
-<img width="3840" height="2160" alt="Screenshot 2025-10-06 210613" src="https://github.com/user-attachments/assets/ec0ac8c8-704e-48a3-9c4f-2b49cc757532" />
-<img width="3840" height="2160" alt="Screenshot 2025-10-06 210705" src="https://github.com/user-attachments/assets/e0797eca-7122-42b5-86b3-c43ec79c15c7" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/84090cff-e92e-417c-a421-8960f1d0ce43" />
+<img width="1920" height="1080" alt="Screenshot 2025-11-23 124406" src="https://github.com/user-attachments/assets/7a792111-772b-4a03-8ceb-c9b30276afd6" />
+
 
 
 ---
